@@ -1,5 +1,3 @@
-Parabéns pelo seu interesse em iniciar um projeto de backend com Node.js! Aqui está um projeto simples para iniciantes que pode ajudá-lo a entender os conceitos básicos:
-
 **Nome do Projeto: Lista de Tarefas**
 
 **Descrição:**
