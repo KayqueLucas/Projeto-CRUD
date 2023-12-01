@@ -1,0 +1,17 @@
+{
+  "name": "projetonodejstreino",
+  "version": "1.0.0",
+  "description": "Parabéns pelo seu interesse em iniciar um projeto de backend com Node.js! Aqui está um projeto simples para iniciantes que pode ajudá-lo a entender os conceitos básicos:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "knex": "^3.0.1"
+  }
+}
